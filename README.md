@@ -1,1 +1,1 @@
-File
+Our business model is a website that allows students to rate their landlords, similar to Rate My Professor. We can earn money by accepting advertisements from student-related businesses and organizations. Some examples of target advertisers would be: a student campaigning for GM presidency, an RPI sorority looking to recruit students, or a storage facility near Troy. In addition, as the website gets more popular, we can charge landlords a membership fee in order to be part of the website since it would grant them more credibility.
