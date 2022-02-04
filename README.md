@@ -4,7 +4,7 @@ Our business model is a website that allows students to rate and find trustworth
 
 ## License
 
-We chose to use the MIT License because of its simplicity and ease of use, which makes it non-intimidating for use by student developers. It doesn't create as many restrictions on the use of the code as opposted to other licenses (like GPL for instance). The MIT License allows others to sublicense or release the software under a propriety license, as long as the original copyright is credited as well. This makes it fitting for an RPI-oriented project, since it facilitates popularizing the code and reaching others who may see greater business potential in it. Overall, using the MIT License we would allow us to create our landlord-rating business model despite the project being open-source.
+We chose to use the MIT License because of its simplicity and ease of use, which makes it non-intimidating for use by student developers. It doesn't create as many restrictions on the use of the code as opposed to other licenses (like GPL for instance). The MIT License allows others to sublicense or release the software under a propriety license, as long as the original copyright is credited as well. This makes it fitting for an RPI-oriented project, since it facilitates popularizing the code and reaching others who may see greater business potential in it. Overall, using the MIT License we would allow us to create our landlord-rating business model despite the project being open-source.
 
 
 ## Collaborators
